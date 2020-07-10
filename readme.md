@@ -1,5 +1,5 @@
 ```js script
-// console.log('Hello world!')
+console.log('Hello world!')
 ```
 
 ## What do I do?
