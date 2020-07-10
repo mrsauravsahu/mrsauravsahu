@@ -13,6 +13,3 @@ console.log('Hello world!')
 
 ## Currently Learning
 `Adonis 5` `deno?`
-
-## Hobbies
-`cooking 🍝` ``
