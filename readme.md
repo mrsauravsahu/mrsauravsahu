@@ -6,10 +6,10 @@ console.log('Hello world!')
 `code 👨🏻‍💻` `cook 🍝` `create bugs 😂` `full stack dev 👨‍💻` `engineer 🛠 @mckinsey digital` 
 
 ## How do I write code?
-`javaScript` `netcore` 
+`javaScript or tyeScript` `netcore with C#` 
 
 ## Tech Interests
-`node` `react-native` `svelte` `aspnetcore`
+`asp netcore` `node` `svelte`
 
 ## Currently Learning
-`Adonis 5` `deno?`
+`CSS always` `AWS` `asp netcore`
