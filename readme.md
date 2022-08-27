@@ -6,7 +6,7 @@
 
 🇮🇳 Indian. Odia. Love web development, data structures and algorithms. 
 
-Personally, I do some sketching, [photography](https://instagram.com/photosbysaurav), gaming, love coffee and love listening to [music](https://open.spotify.com/user/58zbmlg6wri7r1aepdhpdin9z?si=0fc1707efa93457b).
+Personally, I do some [photography - (mrsauravsahu.in on Instagram)](https://instagram.com/mrsauravsahu.in), gaming, love coffee and love listening to [music](https://open.spotify.com/user/58zbmlg6wri7r1aepdhpdin9z?si=0fc1707efa93457b).
 
 # 👇 you can find me at
 <a href="https://www.youtube.com/channel/UCPWETNZS6Cu3X2fYnpME32g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
