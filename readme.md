@@ -17,4 +17,4 @@ Personally, I do some [photography - (mrsauravsahu.in on Instagram)](https://ins
 <a href="https://unsplash.com/@mrsauravsahu"><img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white"></a>
 
 # 🤔 currently learning
-Azure and Kubernetes.
+Kubernetes, French and AWS.
