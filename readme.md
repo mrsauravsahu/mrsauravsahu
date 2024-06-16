@@ -7,8 +7,6 @@ Currently working on few open-source projects
 - [@cli-config](https://github.com/cli-config)
 - [@payobills](https://github.com/payobills)
 
-🇮🇳 Indian. Odia. Love web development, data structures and algorithms. 
-
 Personally, I do some [photography - (mrsauravsahu.in on Instagram)](https://instagram.com/mrsauravsahu.in), gaming, love coffee and love listening to [music](https://open.spotify.com/user/58zbmlg6wri7r1aepdhpdin9z?si=0fc1707efa93457b).
 
 # You can find me here
